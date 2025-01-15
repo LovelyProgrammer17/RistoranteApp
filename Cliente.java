@@ -11,6 +11,8 @@ import java.util.List;
  * La classe permette di gestire clienti e i loro ordini in maniera strutturata.
  * Autori: 20050401 - 20057192
  */
+
+Ciao come va
 public class Cliente {
     private final String id;
     private int nascita;
