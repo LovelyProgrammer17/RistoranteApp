@@ -12,7 +12,6 @@ import java.util.List;
  * Autori: 20050401 - 20057192
  */
 
-Ciao come va
 public class Cliente {
     private final String id;
     private int nascita;
